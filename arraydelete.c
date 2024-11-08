@@ -2,6 +2,7 @@
 void main()
 {
     int arr[10],k,n,i,value;
+    printf("Array Deletion Operation");
     printf("Enter the array limit :");
     scanf("%d",&n);
 
